@@ -1,0 +1,25 @@
+{
+  "name": "@somanath08/node",
+  "version": "1.0.0",
+  "description": "A node project to learn node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sai Somanath Komanduri",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/somanath08/node-fcc.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "bugs": {
+    "url": "https://github.com/somanath08/node-fcc/issues"
+  },
+  "homepage": "https://github.com/somanath08/node-fcc#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
