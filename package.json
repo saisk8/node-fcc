@@ -4,7 +4,8 @@
   "description": "",
   "main": "async.js",
   "dependencies": {
-    "bl": "^1.2.2"
+    "bl": "^1.2.2",
+    "through2-map": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "^4.19.1"
